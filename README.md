@@ -4,21 +4,21 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com o doce apelido de ***Morcego***, sou pai de um menino lindo e marido de uma esposa que nunca irá ler esse mural. Sou também membro dos <a href="https://www.facebook.com/dragoesmcbrasil/"> Dragões Brasil Moto Clube </a>, onde a minha parte favorita (depois de pegar a estrada com uma moto, é claro) é as Ações Sociais ao qual desenvolvemos em todos os nossos distritos.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fora isso, nada além de normalidade em minhas outras atividades pessoais;<br>
   <ul type="square">
-    <li> Futebol #Check                </li>
-    <li> HQ's #Check                   </li>
-    <li> Games #Check                  </li>
-    <li> Rock #Check                   </li>
-    <li> Filmes e Séries #Check        </li>
-    <li> Astronomia                    </li>
-    <li> RPG de Mesa #Check            </li>
-    <li> Uísque Scott #Check           </li>
-    <li> Politica Internacional #Check </li>
-    <li> Podcasts #Check               </li>
+    <li> Futebol #Check                            </li>
+    <li> HQ's #Check                               </li>
+    <li> Games :heavy_check_mark:                  </li>
+    <li> Rock :heavy_check_mark:                   </li>
+    <li> Filmes e Séries :heavy_check_mark:        </li>
+    <li> Astronomia :heavy_check_mark:             </li>
+    <li> RPG de Mesa :heavy_check_mark:            </li>
+    <li> Uísque Scott :heavy_check_mark:           </li>
+    <li> Politica Internacional :heavy_check_mark: </li>
+    <li> Podcasts :heavy_check_mark:               </li>
   </ul>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viu? Apenas simplicidade e normalidade em meus gostos peculiares... 😆 :laughing: :laughing:
 
 ## Profissional
-- :black_nib: Atualmente estou *Backoffice* de um e-commerce marketplace como responsável pelo Relacionamento B2C. Mas quase sempre estou desempenhando diversas outras atividades (como Supervisor de operações, qualidade, treinamento, entre outros...) conforme necessidade operacional e administrativa do escritório.
+- :black_nib: Atualmente estou *Backoffice* de um e-commerce/marketplace como responsável pelo Relacionamento B2C. Mas quase sempre estou desempenhando diversas outras atividades (como Supervisor de operações, qualidade, treinamento, entre outros...) conforme necessidade operacional e administrativa do escritório.
 
 - :floppy_disk: Estou cursando Técnico em Informática no Senac Tatuapé, estando focado nesse momento do curso em; 
    <p align="center">
