@@ -1,7 +1,7 @@
 ### :bat: Hi, I'm Heder! :bat:
 
 ## Eu
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com o doce apelido de ***Morcego***, sou pai de um menino lindo e marido de uma esposa que nunca irá ler esse mural. Sou também membro dos <a href="https://www.facebook.com/dragoesmcbrasil/"> Dragões Brasil Moto Clube </a>, onde a minha parte favorita (depois de pegar a estrada com uma moto, é claro) é as Ações Sociais ao qual desenvolvemos em todos os nossos distritos.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com o doce apelido de ***Morcego***, sou pai de um menino lindo e marido de uma esposa que nunca irá ler esse mural. Sou também membro dos <a href="https://www.facebook.com/dragoesmcbrasil/" target="_blank" rel="external"> Dragões Brasil Moto Clube </a>, onde a minha parte favorita (depois de pegar a estrada com uma moto, é claro) é as Ações Sociais ao qual desenvolvemos em todos os nossos distritos.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fora isso, nada além de normalidade em minhas outras atividades pessoais;<br>
   <table>
     <tr>
@@ -24,7 +24,7 @@
      </td>
      <td>
          <p align="right"> 
-          <a href="https://www.facebook.com/dragoesmcbrasil/">
+          <a href="https://www.facebook.com/dragoesmcbrasil/" target="_blank" rel="external">
           <img src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dragicon.png"></a>
           </p> 
      </td>
@@ -47,7 +47,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:heder.lsantos@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/heder-santos/">
+    <a href="https://www.linkedin.com/in/heder-santos/" target="_blank" rel="external">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/heder-santos/">
     </a>
 </p>
