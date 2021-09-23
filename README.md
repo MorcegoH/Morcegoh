@@ -31,7 +31,7 @@
   </tr>
  </table>
 
-## Profissional
+## Carreira
 - :black_nib: Atualmente estou *Backoffice* de um e-commerce/marketplace como responsável pelo Relacionamento B2C. Mas quase sempre estou desempenhando diversas outras atividades (como Supervisor de operações, qualidade, treinamento, entre outros...) conforme necessidade operacional e administrativa do escritório.
 
 - :floppy_disk: Estou cursando Técnico em Informática no Senac Tatuapé, estando focado nesse momento do curso em; 
