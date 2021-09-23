@@ -36,7 +36,7 @@
 
 - :floppy_disk: Estou cursando Técnico em Informática no Senac Tatuapé, estando focado nesse momento do curso em; 
    <p align="center">
-        <img width="220" height="100" src="https://github.com/MorcegoH/icons/blob/3ec4201ae2ea86d19095eeac6c1b481f9cacd7b6/3icons.png">
+        <img width="250" height="100" src="https://github.com/MorcegoH/icons/blob/3ec4201ae2ea86d19095eeac6c1b481f9cacd7b6/3icons.png">
         <img width="160" height="100" src="https://github.com/MorcegoH/icons/blob/b3b9db3c6a6ae354d5c46c3a16b969a0d6c14d41/javaicon.png">
    
 
