@@ -4,9 +4,8 @@
 - :black_nib: Atualmente estou *Backoffice* de um e-commerce marketplace como responsável pelo Relacionamento B2C. Mas quase sempre estou desempenhando diversas outras atividades (como Supervisor de operações, qualidade, treinamento, entre outros...) conforme necessidade operacional e administrativa do escritório.
 
 - :floppy_disk: Estou cursando Técnico em Informática no Senac Tatuapé, estando focado nesse momento do curso em; 
-   <!-- <p align="center">
-        <img width="100" height="60" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg">
-        <img width="100" height="60" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Badge_js-strict.svg"> -->
+   <p align="center">
+        <img width="160" height="60" src="https://github.com/MorcegoH/icons/blob/3ec4201ae2ea86d19095eeac6c1b481f9cacd7b6/3icons.png">
         
 
 ## Contatos
