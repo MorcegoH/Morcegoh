@@ -3,6 +3,9 @@
 ## Eu
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com o doce apelido de ***Morcego***, sou pai de um menino lindo e marido de uma esposa que nunca irá ler esse mural. Sou também membro dos <a href="https://www.facebook.com/dragoesmcbrasil/"> Dragões Brasil Moto Clube </a>, onde a minha parte favorita (depois de pegar a estrada com uma moto, é claro) é as Ações Sociais ao qual desenvolvemos em todos os nossos distritos.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fora isso, nada além de normalidade em minhas outras atividades pessoais;<br>
+  <table>
+    <tr>
+      <td>
   <ul type="square">
     <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="20" height="20"            src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png">                   
     </li>
@@ -18,6 +21,15 @@
     <li> Podcasts             </li>
   </ul>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viu? Apenas simplicidade e normalidade em meus gostos peculiares... 😆 :laughing: :laughing:
+     </td>
+     <td>
+         <p align="right"> 
+          <a href="https://www.facebook.com/dragoesmcbrasil/">
+          <img src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dragicon.png"></a>
+          </p> 
+     </td>
+  </tr>
+ </table>
 
 ## Profissional
 - :black_nib: Atualmente estou *Backoffice* de um e-commerce/marketplace como responsável pelo Relacionamento B2C. Mas quase sempre estou desempenhando diversas outras atividades (como Supervisor de operações, qualidade, treinamento, entre outros...) conforme necessidade operacional e administrativa do escritório.
@@ -42,3 +54,5 @@
 
 ##
 > Dever, Justiça, Lealdade, Honra e Respeito 
+> 
+> Pulso firme, meu coração é contigo! 4.3.13 👊 :heart: 🐲
