@@ -18,7 +18,9 @@
     <li> Rock   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <img width="52" height="20"  src="https://github.com/MorcegoH/icons/blob/c689f6cf50e99cf76b6c803d48523366d3a72af5/acdci.png">                 
     </li>
-    <li> Filmes e Séries         </li>
+    <li> Filmes e Séries  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
+    <img width="60" height="20" src="https://github.com/MorcegoH/icons/blob/e5f4063beec9b953ef20f833c15d2ef72e3ab577/expanse.jpg">      
+    </li>
     <li> Astronomia              </li>
     <li> RPG de Mesa            </li>
     <li> Uísque Scott             </li>
