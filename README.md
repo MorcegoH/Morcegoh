@@ -7,11 +7,12 @@
     <tr>
       <td>
   <ul type="square">
-    <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="20" height="20"            src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png">                   
+    <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="20" height="20"                          src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png">                   
     </li>
-    <li> HQ's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dcicon.png">                           
+    <li> HQ's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="20" height="20"      src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dcicon.png">                           
     </li>
-    <li> Games                   </li>
+    <li> Games &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img width="50" height="20"  src="https://github.com/MorcegoH/icons/blob/119722fd4f9015f1010a6facf1196e7d376ed946/Total_War_logo.png">              
+    </li>
     <li> Rock                  </li>
     <li> Filmes e Séries         </li>
     <li> Astronomia              </li>
