@@ -46,11 +46,13 @@
     </li>
     <!--
      -->
-    <li> Politica Internacional <img width="" heigth="" src="">    
+    <li> Politica Internacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="20" heigth="20" src="https://logodownload.org/wp-content/uploads/2015/05/onu-logo-1.png">
     </li>
     <!--
      -->
-    <li> Podcasts        <img width="" heigth="" src="">  
+    <li> Podcasts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="20" heigth="20" src="https://github.com/MorcegoH/icons/blob/036bfa6e35dbde7bc47eac8c0b7028b0a98516d6/xadverb.png">  
     </li>
   </ul>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viu? Apenas simplicidade e normalidade em meus gostos peculiares... 😆 :laughing: :laughing:
@@ -71,6 +73,7 @@
    <p align="center">
         <img width="250" height="100" src="https://github.com/MorcegoH/icons/blob/3ec4201ae2ea86d19095eeac6c1b481f9cacd7b6/3icons.png">
         <img width="160" height="100" src="https://github.com/MorcegoH/icons/blob/b3b9db3c6a6ae354d5c46c3a16b969a0d6c14d41/javaicon.png">
+   </p>
    
 
 ## Contatos
