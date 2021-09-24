@@ -34,27 +34,27 @@
     </li>
       <!--
      -->
-    <li> Astronomia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <a href="https://www.todamateria.com.br/astronomia/#:~:text=A%20Astronomia%20%C3%A9%20uma%20ci%C3%AAncia,de%20curiosidade%20entre%20os%20homens.&text=Os%20principais%20temas%20de%20pesquisa,%2C%20lua%2C%20sol%20e%20astros."<img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/76c603f704e8ee0b807af07d97b66ba993e4bf68/iconastro.png">         
+    <li> Astronomia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <a       href="https://www.todamateria.com.br/astronomia/#:~:text=A%20Astronomia%20%C3%A9%20uma%20ci%C3%AAncia,de%20curiosidade%20entre%20os%20homens.&text=Os%20principais%20temas%20de%20pesquisa,%2C%20lua%2C%20sol%20e%20astros."> <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/76c603f704e8ee0b807af07d97b66ba993e4bf68/iconastro.png">      </a>         
     </li>
       <!--
      -->
     <li> RPG de Mesa &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 
-      <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/8db320512d20b2824477dbcc1b9f7f7abeaeef10/iconrpg.png">         
+      <a href="https://velhomundodastrevas.fandom.com/pt-br/wiki/Vampiro:_A_M%C3%A1scara"> <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/8db320512d20b2824477dbcc1b9f7f7abeaeef10/iconrpg.png"> </a>         
     </li>
     <!--
      -->
     <li> Uísque Scotch  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="15" height="15" src="https://github.com/MorcegoH/icons/blob/1baad0edd5ce989227ff0d67a5928410f4dea7d2/iconwsk.png">             
+      <a href="https://www.johnniewalker.com/pt-br/"> <img width="15" height="15" src="https://github.com/MorcegoH/icons/blob/1baad0edd5ce989227ff0d67a5928410f4dea7d2/iconwsk.png"> </a>             
     </li>
     <!--
      -->
     <li> Politica Internacional &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="20" heigth="20" src="https://logodownload.org/wp-content/uploads/2015/05/onu-logo-1.png">
+     <a href="https://brasil.elpais.com/noticias/politica-exterior/"> <img width="20" heigth="20" src="https://logodownload.org/wp-content/uploads/2015/05/onu-logo-1.png"> </a>
     </li>
     <!--
      -->
     <li> Podcasts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img width="20" heigth="20" src="https://github.com/MorcegoH/icons/blob/036bfa6e35dbde7bc47eac8c0b7028b0a98516d6/xadverb.png">  
+     <a href="https://xadrezverbal.com/"> <img width="20" heigth="20" src="https://github.com/MorcegoH/icons/blob/036bfa6e35dbde7bc47eac8c0b7028b0a98516d6/xadverb.png"> </a>
     </li>
   </ul>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viu? Apenas simplicidade e normalidade em meus gostos peculiares... 😆 :laughing: :laughing:
