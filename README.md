@@ -8,31 +8,33 @@
     <tr>
       <td>
   <ul type="square">
-    <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png">                   
+    <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+      <a href="https://www.palmeiras.com.br/pt-br/home/"> <img width="20" height="20"      src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png"> </a>                   
     </li>
     <!--
      -->
     <li> HQ's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dcicon.png">                           
+    <a href="https://www.lojadccomics.com.br/"> <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dcicon.png">       </a>                           
     </li>
       <!--
      -->
     <li> Games &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <img width="50" height="20"  src="https://github.com/MorcegoH/icons/blob/119722fd4f9015f1010a6facf1196e7d376ed946/Total_War_logo.png">              
+    <a href="https://www.totalwar.com"> <img width="50" height="20"  src="https://github.com/MorcegoH/icons/blob/119722fd4f9015f1010a6facf1196e7d376ed946/Total_War_logo.png">
+    </a>  
     </li>
       <!--
      -->
     <li> Rock   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-    <img width="52" height="20"  src="https://github.com/MorcegoH/icons/blob/c689f6cf50e99cf76b6c803d48523366d3a72af5/acdci.png">                 
+    <a href="https://pwrup.acdc.com/"> <img width="52" height="20"  src="https://github.com/MorcegoH/icons/blob/c689f6cf50e99cf76b6c803d48523366d3a72af5/acdci.png"> </a> 
     </li>
       <!--
      -->
     <li> Filmes e Séries  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
-    <img width="60" height="20" src="https://github.com/MorcegoH/icons/blob/e5f4063beec9b953ef20f833c15d2ef72e3ab577/expanse.jpg">      
+    <a href="https://expanse.fandom.com/wiki/The_Expanse_(TV)"> <img width="60" height="20"    src="https://github.com/MorcegoH/icons/blob/e5f4063beec9b953ef20f833c15d2ef72e3ab577/expanse.jpg"> <a/>      
     </li>
       <!--
      -->
-    <li> Astronomia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/76c603f704e8ee0b807af07d97b66ba993e4bf68/iconastro.png">         
+    <li> Astronomia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <a href="https://www.todamateria.com.br/astronomia/#:~:text=A%20Astronomia%20%C3%A9%20uma%20ci%C3%AAncia,de%20curiosidade%20entre%20os%20homens.&text=Os%20principais%20temas%20de%20pesquisa,%2C%20lua%2C%20sol%20e%20astros."<img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/76c603f704e8ee0b807af07d97b66ba993e4bf68/iconastro.png">         
     </li>
       <!--
      -->
