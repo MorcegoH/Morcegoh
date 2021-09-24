@@ -3,29 +3,55 @@
 ## Eu
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Com o doce apelido de ***Morcego***, sou pai de um menino lindo e marido de uma esposa que nunca irá ler esse mural. Sou também membro dos <a href="https://www.facebook.com/dragoesmcbrasil/" target="_blank" rel="external"> Dragões Brasil Moto Clube </a>, onde a minha parte favorita (depois de pegar a estrada com uma moto, é claro) é as Ações Sociais ao qual é desenvolvido em todos os nossos distritos.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fora isso, nada além de normalidade em minhas outras atividades pessoais;<br>
+ <!-- Tabela para informações + imagens --> 
   <table>
     <tr>
       <td>
   <ul type="square">
-    <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img width="20" height="20"                          src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png">                   
+    <li> Futebol &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/pi.png">                   
     </li>
+    <!--
+     -->
     <li> HQ's &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="20" height="20"      src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dcicon.png">                           
+    <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/20c0b83e0ab17ded62922127196c1f896e2e7865/dcicon.png">                           
     </li>
+      <!--
+     -->
     <li> Games &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <img width="50" height="20"  src="https://github.com/MorcegoH/icons/blob/119722fd4f9015f1010a6facf1196e7d376ed946/Total_War_logo.png">              
     </li>
+      <!--
+     -->
     <li> Rock   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
     <img width="52" height="20"  src="https://github.com/MorcegoH/icons/blob/c689f6cf50e99cf76b6c803d48523366d3a72af5/acdci.png">                 
     </li>
+      <!--
+     -->
     <li> Filmes e Séries  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     
     <img width="60" height="20" src="https://github.com/MorcegoH/icons/blob/e5f4063beec9b953ef20f833c15d2ef72e3ab577/expanse.jpg">      
     </li>
-    <li> Astronomia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img widrh="20" height="20" src="https://github.com/MorcegoH/icons/blob/76c603f704e8ee0b807af07d97b66ba993e4bf68/iconastro.png">         </li>
-    <li> RPG de Mesa            </li>
-    <li> Uísque Scott             </li>
-    <li> Politica Internacional   </li>
-    <li> Podcasts             </li>
+      <!--
+     -->
+    <li> Astronomia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/76c603f704e8ee0b807af07d97b66ba993e4bf68/iconastro.png">         
+    </li>
+      <!--
+     -->
+    <li> RPG de Mesa &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 
+      <img width="20" height="20" src="https://github.com/MorcegoH/icons/blob/8db320512d20b2824477dbcc1b9f7f7abeaeef10/iconrpg.png">         
+    </li>
+    <!--
+     -->
+    <li> Uísque Scotch  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img width="15" height="15" src="https://github.com/MorcegoH/icons/blob/1baad0edd5ce989227ff0d67a5928410f4dea7d2/iconwsk.png">             
+    </li>
+    <!--
+     -->
+    <li> Politica Internacional <img width="" heigth="" src="">    
+    </li>
+    <!--
+     -->
+    <li> Podcasts        <img width="" heigth="" src="">  
+    </li>
   </ul>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Viu? Apenas simplicidade e normalidade em meus gostos peculiares... 😆 :laughing: :laughing:
      </td>
