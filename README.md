@@ -94,3 +94,5 @@
 > Dever, Justiça, Lealdade, Honra e Respeito 
 > 
 > Pulso firme, meu coração é contigo! 4.3.13 👊 :heart: 🐲
+>
+> x% de y = y% de x 
