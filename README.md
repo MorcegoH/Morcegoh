@@ -93,6 +93,6 @@
 ## Dogmas
 > Dever, Justiça, Lealdade, Honra e Respeito 
 > 
-> Pulso firme, meu coração é contigo! 4.3.13 👊 :heart: 🐲
+> Pulso firme, meu coração é contigo! 4.13.3 👊 :heart: 🐲
 >
 > x% de y = y% de x 
