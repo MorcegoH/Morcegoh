@@ -63,7 +63,7 @@
      <td>
          <p align="right"> 
           <a href="https://www.facebook.com/dragoesmcbrasil/" target="_blank" rel="external">
-          <img src="https://github.com/MorcegoH/icons/blob/790700491eca17f392ac1f99366857e92b597532/31-10.jpg"></a>
+          <img src="https://github.com/MorcegoH/icons/blob/dfddbfaadefa23d64fa5225745ee40e201da7704/dragicon.png"></a>
           </p> 
      </td>
   </tr>
