@@ -70,12 +70,15 @@
  </table>
 
 ## Carreira
-- :black_nib: Atualmente estou procurando me realocar no mercado de trabalho, com intuito de migrar de área, sigo estudando como louco Ciência de Dados e linguagens de programação referente a esse campo.
+- ✒️: Atualmente estou procurando me realocar no mercado de trabalho, com intuito de migrar de área, sigo estudando como um louco Ciência de Dados, linguagens de programação referente a esse campo, um pouco de Power BI e é claro, Inglês.
 
-- :floppy_disk: Estou cursando Técnologo em Ciência de Dados na Instituição <a href="https://www.anhanguera.com/"> Anhanguera </a>, estando focado nesse momento do curso em; 
+- 💾: Sou formado Técnico em Informática pela Instituição <a href="https://www.sp.senac.br/senac-tatuape-cel-luis-americano"> Senac Tatuapé </a>.
+
+- 🎓: Estou cursando Técnologo em Ciência de Dados na Instituição <a href="https://www.anhanguera.com/"> Anhanguera </a>, estando focado nesse momento do curso nas seguintes linguagens (além dos cálculos e mais cáluclos matemáticos ;P). 
    <p align="center">
-        <img width="250" height="100" src="https://github.com/MorcegoH/icons/blob/3ec4201ae2ea86d19095eeac6c1b481f9cacd7b6/3icons.png">
-        <img width="160" height="100" src="https://github.com/MorcegoH/icons/blob/b3b9db3c6a6ae354d5c46c3a16b969a0d6c14d41/javaicon.png">
+        <img width="250" height="250" src="https://github.com/MorcegoH/icons/blob/79b636c5ec0be3985941f1bf852657abf76ccd21/icons8-python-256.png">
+        <img width="250" height="250" src="https://github.com/MorcegoH/icons/blob/79b636c5ec0be3985941f1bf852657abf76ccd21/icons8-mysql-logo-256.png">
+        <img width="250" height="250" src="https://github.com/MorcegoH/icons/blob/79b636c5ec0be3985941f1bf852657abf76ccd21/icons8-r-project-256.png">
    </p>
    
 
